@@ -1,2 +1,0 @@
-# MultithreadingAndConcurrency
-Multithreading and Concurrency
